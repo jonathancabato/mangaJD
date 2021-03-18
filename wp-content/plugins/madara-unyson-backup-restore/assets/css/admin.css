@@ -1,0 +1,85 @@
+.madara-demo-container #primary, .madara-demo-container #secondary {
+    display: inline-block;
+}
+
+.madara-demo-container #primary {
+    width: 100%;
+}
+/*.madara-demo-container #secondary {
+    width: 18%;
+    position: absolute;
+    margin-left: 10px;
+}*/
+.import-admin-title {
+    background-color: #64BEBE;
+    padding: 10px 10px 10px 40px;
+    color: #fff;
+    position: relative;
+}
+
+.import-admin-title h2 {
+    font-size: 1.8em;
+    color: #fff;
+}
+
+.import-admin-title h2 .dashicons.dashicons-upload {
+    position: absolute;
+    background: #fff;
+    color: #64bebe;
+    padding: 8px;
+    border-radius: 50%;
+    top: 30%;
+    left: 5%;
+}
+
+.import-admin-title h2 .text {
+    margin-left: 6%;
+}
+
+.madara-admin-notice {
+    background-color: #6ccac9;
+    padding: 10px 10px 10px 80px;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+.madara-admin-notice ul {
+    list-style: disc;
+}
+.madara-admin-notice ul li {
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.demo-admin-title {
+    background-color: #f9f9f9;
+    padding: 10px 10px 10px 40px;
+    color: #fff;
+    position: relative;
+    border: 1px solid #eee;
+}
+
+.demo-admin-title h2 {
+    font-size: 1.8em;
+}
+
+.demo-admin-title h2 .dashicons {
+    position: absolute;
+    background: #0b6d9c;
+    color: #fff;
+    padding: 8px;
+    border-radius: 50%;
+    top: 30%;
+    left: 5%;
+}
+
+.demo-admin-title h2 .text {
+    margin-left: 6%;
+}
+
+.demo-admin-container {
+    padding: 15px 50px 15px 50px;
+    overflow: hidden;
+    background: #fff;
+}

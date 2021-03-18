@@ -1,0 +1,380 @@
+Log created: 2021-03-18 15:46:49
+Type: restore
+[2021-03-18 15:46:49][notice]init restore data
+[2021-03-18 15:46:49][notice]Start restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_all.part002.zip
+[2021-03-18 15:46:49][notice]extract root:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\
+[2021-03-18 15:46:49][notice]start extracting file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_all.part002.zip
+[2021-03-18 15:46:54][notice]extract finished file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_all.part002.zip
+[2021-03-18 15:46:54][notice]Finished restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_all.part002.zip
+[2021-03-18 15:46:55][notice]Start restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_all.part001.zip
+[2021-03-18 15:46:55][notice]extract root:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\
+[2021-03-18 15:46:55][notice]start extracting file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_all.part001.zip
+[2021-03-18 15:46:58][notice]extract finished file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_all.part001.zip
+[2021-03-18 15:46:58][notice]Finished restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_all.part001.zip
+[2021-03-18 15:46:58][notice]Start restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_all.part003.zip
+[2021-03-18 15:46:58][notice]extract root:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\
+[2021-03-18 15:46:58][notice]start extracting file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_all.part003.zip
+[2021-03-18 15:47:00][notice]extract finished file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_all.part003.zip
+[2021-03-18 15:47:00][notice]Finished restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_all.part003.zip
+[2021-03-18 15:47:01][notice]Start restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_uploads.zip
+[2021-03-18 15:47:01][notice]restore from files:["F:\\xampp\\htdocs\\manga_jd\/wp-content\\wpvividbackups\\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_uploads.zip"]
+[2021-03-18 15:47:01][notice]start extracting file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_uploads.zip
+[2021-03-18 15:47:08][notice]extract finished file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_uploads.zip
+[2021-03-18 15:47:08][notice]Finished restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_uploads.zip
+[2021-03-18 15:47:09][notice]Start restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_plugin.part001.zip
+[2021-03-18 15:47:09][notice]restore from files:["F:\\xampp\\htdocs\\manga_jd\/wp-content\\wpvividbackups\\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_plugin.part001.zip"]
+[2021-03-18 15:47:09][notice]start extracting file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_plugin.part001.zip
+[2021-03-18 15:47:18][notice]extract finished file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_plugin.part001.zip
+[2021-03-18 15:47:18][notice]Finished restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_plugin.part001.zip
+[2021-03-18 15:47:19][notice]Start restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_plugin.part002.zip
+[2021-03-18 15:47:19][notice]restore from files:["F:\\xampp\\htdocs\\manga_jd\/wp-content\\wpvividbackups\\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_plugin.part002.zip"]
+[2021-03-18 15:47:19][notice]start extracting file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_plugin.part002.zip
+[2021-03-18 15:47:41][notice]extract finished file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_plugin.part002.zip
+[2021-03-18 15:47:41][notice]Finished restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_plugin.part002.zip
+[2021-03-18 15:47:43][notice]Start restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_core.zip
+[2021-03-18 15:47:43][notice]restore from files:["F:\\xampp\\htdocs\\manga_jd\/wp-content\\wpvividbackups\\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_core.zip"]
+[2021-03-18 15:47:43][notice]start extracting file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_core.zip
+[2021-03-18 15:47:46][notice]extract finished file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_core.zip
+[2021-03-18 15:47:46][notice]Finished restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_core.zip
+[2021-03-18 15:47:47][notice]Start restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_themes.zip
+[2021-03-18 15:47:47][notice]restore from files:["F:\\xampp\\htdocs\\manga_jd\/wp-content\\wpvividbackups\\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_themes.zip"]
+[2021-03-18 15:47:47][notice]start extracting file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_themes.zip
+[2021-03-18 15:47:49][notice]extract finished file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_themes.zip
+[2021-03-18 15:47:49][notice]Finished restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_themes.zip
+[2021-03-18 15:47:50][notice]Start restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_content.zip
+[2021-03-18 15:47:50][notice]restore from files:["F:\\xampp\\htdocs\\manga_jd\/wp-content\\wpvividbackups\\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_content.zip"]
+[2021-03-18 15:47:50][notice]start extracting file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_content.zip
+[2021-03-18 15:47:50][notice]extract finished file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_content.zip
+[2021-03-18 15:47:50][notice]Finished restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_content.zip
+[2021-03-18 15:47:52][notice]Start restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_db.zip
+[2021-03-18 15:47:52][notice]start extracting file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_db.zip
+[2021-03-18 15:47:52][notice]extract finished file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_db.zip
+[2021-03-18 15:47:52][notice]sql file: 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_db.sql
+[2021-03-18 15:47:52][Warning]wpdb
+[2021-03-18 15:47:52][notice]The test to create table succeeds.
+[2021-03-18 15:47:52][notice]The test to insert into table succeeds.
+[2021-03-18 15:47:52][notice]The test to drop table succeeds.
+[2021-03-18 15:47:52][notice]get max_allowed_packet wpdb 
+[2021-03-18 15:47:52][notice]max_allowed_packet less than 32M :1.00 MB
+[2021-03-18 15:47:52][notice]Start import sql file.
+[2021-03-18 15:47:52][notice]old site url:http://13.250.28.233
+[2021-03-18 15:47:52][notice]old home url:http://13.250.28.233
+[2021-03-18 15:47:52][notice]old content url:http://13.250.28.233/wp-content
+[2021-03-18 15:47:52][notice]old upload url:http://13.250.28.233/wp-content/uploads
+[2021-03-18 15:47:52][notice]old site prefix:wp_
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_actionscheduler_actions
+[2021-03-18 15:47:52][notice]Dumping table wp_actionscheduler_actions is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_actionscheduler_actions: 0
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_actionscheduler_claims
+[2021-03-18 15:47:52][notice]Dumping table wp_actionscheduler_claims is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_actionscheduler_claims: 0
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_actionscheduler_groups
+[2021-03-18 15:47:52][notice]Dumping table wp_actionscheduler_groups is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_actionscheduler_groups: 0
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_actionscheduler_logs
+[2021-03-18 15:47:52][notice]Dumping table wp_actionscheduler_logs is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_actionscheduler_logs: 0
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_at_ip_data
+[2021-03-18 15:47:52][notice]Dumping table wp_at_ip_data is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_at_ip_data: 0
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_at_logs
+[2021-03-18 15:47:52][notice]Dumping table wp_at_logs is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_at_logs: 300
+[2021-03-18 15:47:52][notice]Replace the row in 0 line.
+[2021-03-18 15:47:52][notice]finish replace rows
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_blck_payments
+[2021-03-18 15:47:52][notice]Dumping table wp_blck_payments is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_blck_payments: 3
+[2021-03-18 15:47:52][notice]Replace the row in 0 line.
+[2021-03-18 15:47:52][notice]finish replace rows
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_block_api
+[2021-03-18 15:47:52][notice]Dumping table wp_block_api is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_block_api: 1
+[2021-03-18 15:47:52][notice]Replace the row in 0 line.
+[2021-03-18 15:47:52][notice]finish replace rows
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_commentmeta
+[2021-03-18 15:47:52][notice]Dumping table wp_commentmeta is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_commentmeta: 4
+[2021-03-18 15:47:52][notice]Replace the row in 0 line.
+[2021-03-18 15:47:52][notice]finish replace rows
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_comments
+[2021-03-18 15:47:52][notice]Dumping table wp_comments is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_comments: 122
+[2021-03-18 15:47:52][notice]Replace the row in 0 line.
+[2021-03-18 15:47:52][notice]finish replace rows
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_links
+[2021-03-18 15:47:52][notice]Dumping table wp_links is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_links: 0
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_manga_chapter_coin
+[2021-03-18 15:47:52][notice]Dumping table wp_manga_chapter_coin is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_manga_chapter_coin: 10
+[2021-03-18 15:47:52][notice]Replace the row in 0 line.
+[2021-03-18 15:47:52][notice]finish replace rows
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_manga_chapters
+[2021-03-18 15:47:52][notice]Dumping table wp_manga_chapters is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_manga_chapters: 25
+[2021-03-18 15:47:52][notice]Replace the row in 0 line.
+[2021-03-18 15:47:52][notice]finish replace rows
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_manga_chapters_data
+[2021-03-18 15:47:52][notice]Dumping table wp_manga_chapters_data is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_manga_chapters_data: 19
+[2021-03-18 15:47:52][notice]Replace the row in 0 line.
+[2021-03-18 15:47:52][notice]finish replace rows
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_manga_volumes
+[2021-03-18 15:47:52][notice]Dumping table wp_manga_volumes is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_manga_volumes: 0
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_mycred_log
+[2021-03-18 15:47:52][notice]Dumping table wp_mycred_log is complete. Start replacing row(s).
+[2021-03-18 15:47:52][notice]Count of rows in wp_mycred_log: 23
+[2021-03-18 15:47:52][notice]Replace the row in 0 line.
+[2021-03-18 15:47:52][notice]finish replace rows
+[2021-03-18 15:47:52][notice]Drop table if exist
+[2021-03-18 15:47:52][notice]Create table wp_options
+[2021-03-18 15:47:53][notice]Dumping table wp_options is complete. Start replacing row(s).
+[2021-03-18 15:47:53][notice]Count of rows in wp_options: 358
+[2021-03-18 15:47:53][notice]Replace the row in 0 line.
+[2021-03-18 15:47:53][notice]finish replace rows
+[2021-03-18 15:47:53][notice]Drop table if exist
+[2021-03-18 15:47:53][notice]Create table wp_pay_to_unlock
+[2021-03-18 15:47:53][notice]Dumping table wp_pay_to_unlock is complete. Start replacing row(s).
+[2021-03-18 15:47:53][notice]Count of rows in wp_pay_to_unlock: 2
+[2021-03-18 15:47:53][notice]Replace the row in 0 line.
+[2021-03-18 15:47:53][notice]finish replace rows
+[2021-03-18 15:47:53][notice]Drop table if exist
+[2021-03-18 15:47:53][notice]Create table wp_postmeta
+[2021-03-18 15:47:54][notice]Dumping table wp_postmeta is complete. Start replacing row(s).
+[2021-03-18 15:47:54][notice]Count of rows in wp_postmeta: 2703
+[2021-03-18 15:47:54][notice]Replace the row in 0 line.
+[2021-03-18 15:47:55][notice]finish replace rows
+[2021-03-18 15:47:55][notice]Drop table if exist
+[2021-03-18 15:47:55][notice]Create table wp_posts
+[2021-03-18 15:47:55][notice]Dumping table wp_posts is complete. Start replacing row(s).
+[2021-03-18 15:47:55][notice]Count of rows in wp_posts: 324
+[2021-03-18 15:47:55][notice]Replace the row in 0 line.
+[2021-03-18 15:47:55][notice]finish replace rows
+[2021-03-18 15:47:55][notice]Drop table if exist
+[2021-03-18 15:47:55][notice]Create table wp_social_users
+[2021-03-18 15:47:55][notice]Dumping table wp_social_users is complete. Start replacing row(s).
+[2021-03-18 15:47:55][notice]Count of rows in wp_social_users: 1
+[2021-03-18 15:47:55][notice]Replace the row in 0 line.
+[2021-03-18 15:47:55][notice]finish replace rows
+[2021-03-18 15:47:55][notice]Drop table if exist
+[2021-03-18 15:47:55][notice]Create table wp_term_relationships
+[2021-03-18 15:47:55][notice]Dumping table wp_term_relationships is complete. Start replacing row(s).
+[2021-03-18 15:47:55][Warning]Skip table wp_term_relationships
+[2021-03-18 15:47:55][notice]Drop table if exist
+[2021-03-18 15:47:55][notice]Create table wp_term_taxonomy
+[2021-03-18 15:47:55][notice]Dumping table wp_term_taxonomy is complete. Start replacing row(s).
+[2021-03-18 15:47:55][notice]Count of rows in wp_term_taxonomy: 30
+[2021-03-18 15:47:55][notice]Replace the row in 0 line.
+[2021-03-18 15:47:55][notice]finish replace rows
+[2021-03-18 15:47:55][notice]Drop table if exist
+[2021-03-18 15:47:55][notice]Create table wp_termmeta
+[2021-03-18 15:47:55][notice]Dumping table wp_termmeta is complete. Start replacing row(s).
+[2021-03-18 15:47:55][notice]Count of rows in wp_termmeta: 4
+[2021-03-18 15:47:55][notice]Replace the row in 0 line.
+[2021-03-18 15:47:55][notice]finish replace rows
+[2021-03-18 15:47:55][notice]Drop table if exist
+[2021-03-18 15:47:55][notice]Create table wp_terms
+[2021-03-18 15:47:55][notice]Dumping table wp_terms is complete. Start replacing row(s).
+[2021-03-18 15:47:55][notice]Count of rows in wp_terms: 30
+[2021-03-18 15:47:55][notice]Replace the row in 0 line.
+[2021-03-18 15:47:55][notice]finish replace rows
+[2021-03-18 15:47:55][notice]Drop table if exist
+[2021-03-18 15:47:56][notice]Create table wp_trp_gettext_en_us
+[2021-03-18 15:47:57][notice]Dumping table wp_trp_gettext_en_us is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_trp_gettext_en_us: 1872
+[2021-03-18 15:47:57][notice]Replace the row in 0 line.
+[2021-03-18 15:47:57][notice]finish replace rows
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_trp_original_meta
+[2021-03-18 15:47:57][notice]Dumping table wp_trp_original_meta is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_trp_original_meta: 0
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_trp_original_strings
+[2021-03-18 15:47:57][notice]Dumping table wp_trp_original_strings is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_trp_original_strings: 0
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_usermeta
+[2021-03-18 15:47:57][notice]Dumping table wp_usermeta is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_usermeta: 207
+[2021-03-18 15:47:57][notice]Replace the row in 0 line.
+[2021-03-18 15:47:57][notice]finish replace rows
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_users
+[2021-03-18 15:47:57][notice]Dumping table wp_users is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_users: 9
+[2021-03-18 15:47:57][notice]Replace the row in 0 line.
+[2021-03-18 15:47:57][notice]finish replace rows
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wc_avatars_cache
+[2021-03-18 15:47:57][notice]Dumping table wp_wc_avatars_cache is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_wc_avatars_cache: 0
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wc_comments_subscription
+[2021-03-18 15:47:57][notice]Dumping table wp_wc_comments_subscription is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_wc_comments_subscription: 0
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wc_feedback_forms
+[2021-03-18 15:47:57][notice]Dumping table wp_wc_feedback_forms is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_wc_feedback_forms: 0
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wc_follow_users
+[2021-03-18 15:47:57][notice]Dumping table wp_wc_follow_users is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_wc_follow_users: 0
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wc_phrases
+[2021-03-18 15:47:57][notice]Dumping table wp_wc_phrases is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_wc_phrases: 0
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wc_users_rated
+[2021-03-18 15:47:57][notice]Dumping table wp_wc_users_rated is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_wc_users_rated: 0
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wc_users_voted
+[2021-03-18 15:47:57][notice]Dumping table wp_wc_users_voted is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_wc_users_voted: 0
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wfblockediplog
+[2021-03-18 15:47:57][notice]Dumping table wp_wfblockediplog is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_wfblockediplog: 0
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wfblocks7
+[2021-03-18 15:47:57][notice]Dumping table wp_wfblocks7 is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_wfblocks7: 0
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wfconfig
+[2021-03-18 15:47:57][notice]Dumping table wp_wfconfig is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_wfconfig: 241
+[2021-03-18 15:47:57][notice]Replace the row in 0 line.
+[2021-03-18 15:47:57][notice]finish replace rows
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wfcrawlers
+[2021-03-18 15:47:57][notice]Dumping table wp_wfcrawlers is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_wfcrawlers: 0
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wffilechanges
+[2021-03-18 15:47:57][notice]Dumping table wp_wffilechanges is complete. Start replacing row(s).
+[2021-03-18 15:47:57][notice]Count of rows in wp_wffilechanges: 0
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wffilemods
+[2021-03-18 15:47:57][notice]Dumping table wp_wffilemods is complete. Start replacing row(s).
+[2021-03-18 15:47:57][Warning]Skip table wp_wffilemods
+[2021-03-18 15:47:57][notice]Drop table if exist
+[2021-03-18 15:47:57][notice]Create table wp_wfhits
+[2021-03-18 15:47:58][notice]Dumping table wp_wfhits is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wfhits: 6
+[2021-03-18 15:47:58][notice]Replace the row in 0 line.
+[2021-03-18 15:47:58][notice]finish replace rows
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wfhoover
+[2021-03-18 15:47:58][notice]Dumping table wp_wfhoover is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wfhoover: 0
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wfissues
+[2021-03-18 15:47:58][notice]Dumping table wp_wfissues is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wfissues: 17
+[2021-03-18 15:47:58][notice]Replace the row in 0 line.
+[2021-03-18 15:47:58][notice]finish replace rows
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wfknownfilelist
+[2021-03-18 15:47:58][notice]Dumping table wp_wfknownfilelist is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wfknownfilelist: 0
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wflivetraffichuman
+[2021-03-18 15:47:58][notice]Dumping table wp_wflivetraffichuman is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wflivetraffichuman: 0
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wflocs
+[2021-03-18 15:47:58][notice]Dumping table wp_wflocs is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wflocs: 2
+[2021-03-18 15:47:58][notice]Replace the row in 0 line.
+[2021-03-18 15:47:58][notice]finish replace rows
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wflogins
+[2021-03-18 15:47:58][notice]Dumping table wp_wflogins is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wflogins: 6
+[2021-03-18 15:47:58][notice]Replace the row in 0 line.
+[2021-03-18 15:47:58][notice]finish replace rows
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wfls_2fa_secrets
+[2021-03-18 15:47:58][notice]Dumping table wp_wfls_2fa_secrets is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wfls_2fa_secrets: 0
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wfls_settings
+[2021-03-18 15:47:58][notice]Dumping table wp_wfls_settings is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wfls_settings: 19
+[2021-03-18 15:47:58][notice]Replace the row in 0 line.
+[2021-03-18 15:47:58][notice]finish replace rows
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wfnotifications
+[2021-03-18 15:47:58][notice]Dumping table wp_wfnotifications is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wfnotifications: 2
+[2021-03-18 15:47:58][notice]Replace the row in 0 line.
+[2021-03-18 15:47:58][notice]finish replace rows
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wfpendingissues
+[2021-03-18 15:47:58][notice]Dumping table wp_wfpendingissues is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wfpendingissues: 0
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wfreversecache
+[2021-03-18 15:47:58][notice]Dumping table wp_wfreversecache is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wfreversecache: 2
+[2021-03-18 15:47:58][notice]Replace the row in 0 line.
+[2021-03-18 15:47:58][notice]finish replace rows
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wfsnipcache
+[2021-03-18 15:47:58][notice]Dumping table wp_wfsnipcache is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wfsnipcache: 0
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wfstatus
+[2021-03-18 15:47:58][notice]Dumping table wp_wfstatus is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wfstatus: 10
+[2021-03-18 15:47:58][notice]Replace the row in 0 line.
+[2021-03-18 15:47:58][notice]finish replace rows
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wftrafficrates
+[2021-03-18 15:47:58][notice]Dumping table wp_wftrafficrates is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wftrafficrates: 0
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wpfm_backup
+[2021-03-18 15:47:58][notice]Dumping table wp_wpfm_backup is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wpfm_backup: 0
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wpvivid_scan_result
+[2021-03-18 15:47:58][notice]Dumping table wp_wpvivid_scan_result is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wpvivid_scan_result: 0
+[2021-03-18 15:47:58][notice]Drop table if exist
+[2021-03-18 15:47:58][notice]Create table wp_wpvivid_unused_uploads_files
+[2021-03-18 15:47:58][notice]Dumping table wp_wpvivid_unused_uploads_files is complete. Start replacing row(s).
+[2021-03-18 15:47:58][notice]Count of rows in wp_wpvivid_unused_uploads_files: 0
+[2021-03-18 15:47:58][notice]UPDATE wp_options SET option_value="http://localhost/manga_jd" WHERE option_name="siteurl";
+[2021-03-18 15:47:58][notice]update query len:91
+[2021-03-18 15:47:58][notice]UPDATE wp_options SET option_value="http://localhost/manga_jd" WHERE option_name="home";
+[2021-03-18 15:47:58][notice]update query len:88
+[2021-03-18 15:47:58][notice]Finished restoring 13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_db.zip
+[2021-03-18 15:48:03][notice]Restore task completed.
+[2021-03-18 15:48:06][notice]disable maintenance mode
+[2021-03-18 15:48:06][notice]clean file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_uploads.zip
+[2021-03-18 15:48:06][notice]clean file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_plugin.part001.zip
+[2021-03-18 15:48:06][notice]clean file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_core.zip
+[2021-03-18 15:48:06][notice]clean file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_plugin.part002.zip
+[2021-03-18 15:48:06][notice]clean file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_themes.zip
+[2021-03-18 15:48:06][notice]clean file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_content.zip
+[2021-03-18 15:48:06][notice]clean file:F:\xampp\htdocs\manga_jd/wp-content\wpvividbackups\13.250.28.233_wpvivid-605372f782e98_2021-03-18-15-34_backup_db.zip

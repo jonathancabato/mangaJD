@@ -1,0 +1,5 @@
+#wp-manga-modal-content:not(.manga) .wp-manga-modal-body > .wp-manga-modal-coin{display: block}
+#volumes-list .manga-single-volume li .coin{position: absolute;top: 10px;right: 30px;color:#FF0000}
+.wp-manga-modal-coin .desc{font-style: italic;display: block;color: #999;}
+
+.toplevel_page_wp-manga-chapter-coinrevenue th.column-index{width:50px}

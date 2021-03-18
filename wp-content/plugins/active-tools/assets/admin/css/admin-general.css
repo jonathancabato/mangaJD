@@ -1,0 +1,78 @@
+/**
+ * General styling for Active Tools admin pages
+ */
+
+.cf-field .button-red {
+    color: #fafafa;
+    border-color: #dd5141;
+    background: #fa2922;
+}
+
+.cf-field .button-red:focus,
+.cf-field .button-red:hover {
+    color: #fafafa;
+    border-color: #dd5141;
+    background: #de251e;
+}
+
+.cf-field.cf-separator {
+    padding: 10px 12px 8px !important;
+}
+.cf-field.cf-separator h3 {
+    margin-bottom: 4px;
+    margin-top: 8px;
+    text-transform: uppercase;
+    color: #444;
+    font-size: 1rem;
+}
+
+.status-container .status-label {
+    padding: 6px 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    color: #333;
+    background: rgba(0,0,0,0.1);
+}
+.status-container.success .status-label {
+    color: #00b400;
+    background: rgba(0,255,0,0.1);
+}
+.status-container.warning .status-label {
+    color: #b48f2c;
+    background: rgba(255, 207, 44, 0.1);
+}
+.status-container.critical .status-label {
+    color: #e01900;
+    background: rgba(255,0,0,0.1);
+}
+
+.cf-complex.at_complex .cf-field__body .cf-complex__group,
+.cf-container-carbon_fields_container_pick_sport_data .cf-complex--grid .cf-complex__group,
+.cf-container-carbon_fields_container_frequently_asked_questions .cf-complex--grid .cf-complex__group {
+    margin-bottom: 0;
+    margin-top: -1px;
+}
+.cf-complex.at_complex .cf-complex__group-head,
+.cf-container-carbon_fields_container_pick_sport_data .cf-complex__group-head,
+.cf-container-carbon_fields_container_frequently_asked_questions .cf-complex__group-head {
+    border-bottom: 1px solid #e2e4e7;
+}
+.cf-complex.at_complex .cf-complex__group-head:hover,
+.cf-container-carbon_fields_container_pick_sport_data .cf-complex__group-head:hover,
+.cf-container-carbon_fields_container_frequently_asked_questions .cf-complex__group-head:hover {
+    z-index: 1;
+}
+.cf-complex.at_complex .cf-complex__group-actions--grid,
+.cf-container-carbon_fields_container_pick_sport_data .cf-complex__group-actions--grid,
+.cf-container-carbon_fields_container_frequently_asked_questions .cf-complex__group-actions--grid {
+    z-index: 2;
+}
+.cf-complex.at_complex .cf-complex__group-body,
+.cf-container-carbon_fields_container_pick_sport_data .cf-complex__group-body,
+.cf-container-carbon_fields_container_frequently_asked_questions .cf-complex__group-body {
+    border-top: none;
+}
+
+.cf-date-no-button button.button.cf-datetime__button {
+    display: none;
+}

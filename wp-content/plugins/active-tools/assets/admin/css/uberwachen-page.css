@@ -1,0 +1,347 @@
+.at-uberwachen-color-danger_0    {color: #57bb8a;}
+.at-uberwachen-color-danger_5    {color: #63b682;}
+.at-uberwachen-color-danger_10   {color: #73b87e;}
+.at-uberwachen-color-danger_15   {color: #84bb7b;}
+.at-uberwachen-color-danger_20   {color: #94bd77;}
+.at-uberwachen-color-danger_25   {color: #a4c073;}
+.at-uberwachen-color-danger_30   {color: #b0be6e;}
+.at-uberwachen-color-danger_35   {color: #c4c56d;}
+.at-uberwachen-color-danger_40   {color: #d4c86a;}
+.at-uberwachen-color-danger_45   {color: #e2c965;}
+.at-uberwachen-color-danger_50   {color: #f5ce62;}
+.at-uberwachen-color-danger_55   {color: #f3c563;}
+.at-uberwachen-color-danger_60   {color: #e9b861;}
+.at-uberwachen-color-danger_65   {color: #e6ad61;}
+.at-uberwachen-color-danger_70   {color: #ecac67;}
+.at-uberwachen-color-danger_75   {color: #e9a268;}
+.at-uberwachen-color-danger_80   {color: #e79a69;}
+.at-uberwachen-color-danger_85   {color: #e5926b;}
+.at-uberwachen-color-danger_90   {color: #e2886c;}
+.at-uberwachen-color-danger_95   {color: #d76d56;}
+.at-uberwachen-color-danger_100  {color: #d44a3e;}
+
+th.manage-column a {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+th.manage-column.column-proxy_level {
+    justify-content: center;
+}
+
+th.manage-column a .sorting-indicator {
+    margin-top: 0;
+}
+.column-ip .content {
+    min-width: 120px;
+}
+.column-ip .country-icon {
+    height: 1.2rem;
+    vertical-align: middle;
+    margin: -8px 8px -7px 4px;
+}
+.column-ip .ip-location {
+    font-size: 10px;
+    opacity: 0.8;
+    font-style: italic;
+    display: inline-block;
+}
+.column-mycred_activity,
+.column-bad_experience,
+.column-points {
+    width: 80px;
+}
+.column-mycred_activity,
+.column-points,
+.column-user_trust,
+.column-bad_experience,
+.column-purchase_rate,
+.column-proxy_level {
+    text-align: center !important;
+}
+
+.column-login_date {
+    width: 120px;
+}
+.column-user {
+    width: 130px;
+}
+.column-purchase_rate,
+.column-proxy_level {
+    width: 50px;
+}
+.column-user_trust {
+    width: 110px;
+}
+
+.column-purchase_rate input {
+    border: 1px solid #ccc;
+}
+
+th .filter-icon {
+    opacity: 0.8;
+    margin-left: 4px;
+}
+.row-actions .filter-icon {
+    font-size: 14px;
+    width: 14px;
+    height: 14px;
+    line-height: 20px;
+}
+.row-actions .action-icon {
+    font-size: 16px;
+    width: 16px;
+    height: 16px;
+    line-height: 21px;
+}
+.row-actions a {
+    opacity: 0.8;
+}
+.row-actions a:hover {
+    opacity: 1;
+}
+
+#at-uberwachen-list-table .at-uberwachen-filter-options span.dashicons{
+    height: unset;
+    vertical-align: middle;
+    margin-left: -7px;
+    margin-right: 2px;
+    margin-top: -4px;
+}
+#at-uberwachen-dialog-filter-options label {
+    margin-top: 6px;
+    margin-bottom: 2px;
+}
+#at-uberwachen-dialog-filter-options label.required::after {
+    content: '*';
+    color: red;
+    margin-left: 2px;
+    font-weight: bold;
+}
+#at-uberwachen-list-table .topnav-btn {
+    /* margin-left: 8px; */
+    /* padding-left: 8px; */
+    /* border-left: 1px solid #ccc; */
+    display: inline-block;
+}
+
+.select2-container.select2-container--default.select2-container--open {
+    z-index:99999999;
+}
+.select2-search.select2-search--inline,
+.select2-search.select2-search--inline input {
+    width: 100% !important;
+}
+
+#at-uberwachen-list-table div.search-box {
+    margin-left: 8px;
+    padding-left: 8px;
+    border-left: 1px solid #ccc;
+    display: inline-block;
+}
+#at-uberwachen-post-body {
+    position: relative;
+}
+#at-uberwachen-post-body .at-uberwachen-ajax-loader,
+#at-uberwachen-dialog-user-points-history .at-uberwachen-ajax-loader {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(241,241,241,0.6);
+}
+#at-uberwachen-dialog-user-points-history .at-uberwachen-ajax-loader {
+    background: rgba(241,241,241,1);
+}
+#at-uberwachen-post-body .at-uberwachen-ajax-loader.active,
+#at-uberwachen-dialog-user-points-history .at-uberwachen-ajax-loader.active {
+    display: flex;
+}
+
+#at-uberwachen-dialog-user-points-history table {
+    width: 100%;
+    border-spacing: 0;
+}
+#at-uberwachen-dialog-user-points-history tr:nth-child(odd) td {
+    background: rgba(0,0,0,0.04);
+}
+#at-uberwachen-dialog-user-points-history td,
+#at-uberwachen-dialog-user-points-history th {
+    padding: 8px 8px;
+    text-align: left;
+    margin: 0;
+}
+#at-uberwachen-dialog-user-points-history .item-points,
+#at-uberwachen-dialog-user-points-history .item-date-delta {
+    text-align: center;
+}
+#at-uberwachen-dialog-user-points-history td.warning {
+    color: #000;
+}
+#at-uberwachen-dialog-user-points-history .item-date {
+    width: 150px;
+}
+#at-uberwachen-dialog-user-points-history .item-reference {
+    width: 102px;
+}
+#at-uberwachen-dialog-user-points-history .item-date-delta {
+    width: 60px;
+}
+#at-uberwachen-dialog-user-points-history .item-points {
+    width: 40px;
+}
+#at-uberwachen-dialog-user-points-history .no-results {
+    padding: 20px 40px;
+    text-align: center;
+}
+#at-uberwachen-dialog-user-points-history a {
+    text-decoration: none;
+}
+.wp-admin .ui-dialog {
+    top: 50% !important;
+    left: 50% !important;
+    max-width: 800px !important;
+    width: 80vw !important;
+    transform: translate( -50%, -50% );
+}
+
+
+/* Nice scrollbar (webkit) */
+.nice-scroll::-webkit-scrollbar {
+    width: 16px;
+}
+.nice-scroll::-webkit-scrollbar-button {
+    width: 0;
+    height: 0;
+    display: none;
+}
+.nice-scroll::-webkit-scrollbar-track {
+    -webkit-border-radius: 3rem;
+    border-radius: 3rem;
+    height: calc(100% - 40px);
+}
+
+.nice-scroll::-webkit-scrollbar-thumb {
+    border: 6px solid rgba(0, 0, 0, 0);
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.4);
+    background-clip: padding-box;
+    outline: none;
+}
+.nice-scroll::-webkit-scrollbar-corner {
+    background-color: transparent;
+}
+.nice-scroll-container .nice-scroll::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0);
+}
+.nice-scroll-container:hover .nice-scroll::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* End Nice Scrollbar */
+
+/* Loader Spinner */
+.lds-ellipsis {
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+}
+.lds-ellipsis div {
+    position: absolute;
+    top: 33px;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background: #0071a1;
+    animation-timing-function: cubic-bezier(0, 1, 1, 0);
+}
+.lds-ellipsis div:nth-child(1) {
+    left: 8px;
+    animation: lds-ellipsis1 0.6s infinite;
+}
+.lds-ellipsis div:nth-child(2) {
+    left: 8px;
+    animation: lds-ellipsis2 0.6s infinite;
+}
+.lds-ellipsis div:nth-child(3) {
+    left: 32px;
+    animation: lds-ellipsis2 0.6s infinite;
+}
+.lds-ellipsis div:nth-child(4) {
+    left: 56px;
+    animation: lds-ellipsis3 0.6s infinite;
+}
+@keyframes lds-ellipsis1 {
+    0% {
+        transform: scale(0);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+@keyframes lds-ellipsis3 {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(0);
+    }
+}
+@keyframes lds-ellipsis2 {
+    0% {
+        transform: translate(0, 0);
+    }
+    100% {
+        transform: translate(24px, 0);
+    }
+}
+
+/* End Loader Spinner */
+
+
+@media screen and ( min-width: 785px ) {
+
+    .column-user_trust select {
+        height: 1.2rem;
+        min-height: 1.2rem;
+        border: 0;
+        line-height: 1.2rem;
+        background-color: unset;
+    }
+    .column-purchase_rate input {
+        height: 1.5rem;
+        min-height: 1.5rem;
+        border: 0;
+        line-height: 1.5rem;
+        background-color: unset;
+    }
+}
+@media screen and ( max-width: 784px ) {
+
+    #the-list td {
+        font-weight: normal;
+    }
+    #the-list td::before {
+        font-weight: bold;
+    }
+
+    .column-mycred_activity,
+    .column-points,
+    .column-user_trust,
+    .column-bad_experience,
+    .column-purchase_rate,
+    .column-proxy_level {
+        text-align: unset !important;
+    }
+    .column-purchase_rate input {
+        max-width: 100px;
+    }
+
+
+}

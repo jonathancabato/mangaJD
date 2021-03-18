@@ -1,0 +1,304 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Manga Chapter Coin\n"
+"POT-Creation-Date: 2020-11-21 08:23+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: mangabooth <mangabooth@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/backend.php:82
+msgid "Buy Chapter"
+msgstr ""
+
+#: admin/backend.php:93 inc/helper.php:9 templates/admin-settings.php:16
+msgid "Free"
+msgstr ""
+
+#: admin/backend.php:160
+#, php-format
+msgid "Buy Chapter: \"%s\" of \"%s\""
+msgstr ""
+
+#: admin/backend.php:166
+msgid "You do not have enough coin to buy this chapter"
+msgstr ""
+
+#: admin/backend.php:175
+msgid "Thank you. You are now redirected to the chapter"
+msgstr ""
+
+#: admin/backend.php:182
+msgid "Invalid request. Please try again"
+msgstr ""
+
+#: admin/backend.php:218
+#, php-format
+msgid "You need to be <b>%s</b> to read this chapter"
+msgstr ""
+
+#: admin/backend.php:220
+#, php-format
+msgid ""
+"You need to be either one of the following roles: <b>%s</b> to read this "
+"chapter"
+msgstr ""
+
+#: admin/backend.php:296
+msgid "Coin Value: "
+msgstr ""
+
+#: admin/backend.php:299
+msgid "leave empty or -1 if this chapter uses global setting value"
+msgstr ""
+
+#: admin/backend.php:339 admin/backend.php:356
+msgid "Chapter Coin"
+msgstr ""
+
+#: admin/backend.php:343 admin/backend.php:360
+msgid "Set coin value for this chapter. If it is free, set 0"
+msgstr ""
+
+#: admin/report_table.php:10
+msgid "Title"
+msgstr ""
+
+#: admin/report_table.php:11 admin/report_table.php:111
+msgid "Author"
+msgstr ""
+
+#: admin/report_table.php:12
+msgid "Revenue (Coins)"
+msgstr ""
+
+#: admin/report_table.php:109
+msgid "Filter by"
+msgstr ""
+
+#: admin/report_table.php:124
+msgid "Manga ID"
+msgstr ""
+
+#: admin/report_table.php:126
+msgid "Date From"
+msgstr ""
+
+#: admin/report_table.php:128
+msgid "Date To"
+msgstr ""
+
+#: admin/report_table.php:130
+msgid "Filter"
+msgstr ""
+
+#: admin/report_table.php:132
+msgid "Per Page"
+msgstr ""
+
+#: admin/reporter.php:19 admin/reporter.php:26
+msgid "Coins Usage Report"
+msgstr ""
+
+#: admin/reporter.php:19
+msgid "Manga Coins Report"
+msgstr ""
+
+#: admin/settings-page.php:27
+msgid "WP Manga - Chapter Coin License Management"
+msgstr ""
+
+#: admin/settings-page.php:124
+msgid ""
+"Please enter the license key for this product to activate it. You were given "
+"a license key when you purchased this item."
+msgstr ""
+
+#: admin/settings-page.php:128
+msgid "License Key"
+msgstr ""
+
+#: admin/settings-page.php:149
+#, php-format
+msgid ""
+"WP Manga - Chapter Coin Plugin have not activated, you should activate this "
+"plugin to use it,  %1$sactivate.%2$s "
+msgstr ""
+
+#: templates/admin-settings.php:28
+msgid "WP Manga Chapter Coin - Settings"
+msgstr ""
+
+#: templates/admin-settings.php:32
+msgid "Default Coin"
+msgstr ""
+
+#: templates/admin-settings.php:38
+msgid ""
+"Set default coin value for all chapters. You can set coin value for each "
+"chapter to override this value"
+msgstr ""
+
+#: templates/admin-settings.php:43
+msgid "\"Free\" Badge - Label"
+msgstr ""
+
+#: templates/admin-settings.php:49
+msgid "Text for free chapter's badge"
+msgstr ""
+
+#: templates/admin-settings.php:54
+msgid "\"Free\" Badge - Text Color"
+msgstr ""
+
+#: templates/admin-settings.php:60
+msgid ""
+"Text color of \"Free\" badge. Use hexa value including \"#\" character or "
+"rgba() value"
+msgstr ""
+
+#: templates/admin-settings.php:65
+msgid "\"Free\" Badge - Background Color"
+msgstr ""
+
+#: templates/admin-settings.php:71
+msgid ""
+"Background color of \"Free\" badge. Use hexa value including \"#\" character "
+"or rgba() value"
+msgstr ""
+
+#: templates/admin-settings.php:76
+msgid "Locked Badge - Text Color"
+msgstr ""
+
+#: templates/admin-settings.php:82
+msgid ""
+"Text color of locked premium chapter's badge. Use hexa value including \"#\" "
+"character or rgba() value"
+msgstr ""
+
+#: templates/admin-settings.php:87
+msgid "Locked badge - Background Color"
+msgstr ""
+
+#: templates/admin-settings.php:93
+msgid ""
+"Background color of locked premium chapter's badge. Use hexa value including "
+"\"#\" character or rgba() value"
+msgstr ""
+
+#: templates/admin-settings.php:98
+msgid "Unlocked Badge - Text Color"
+msgstr ""
+
+#: templates/admin-settings.php:104
+msgid ""
+"Text color of bought/unlocked premium chapter's badge. Use hexa value "
+"including \"#\" character or rgba() value"
+msgstr ""
+
+#: templates/admin-settings.php:109
+msgid "Ranking badge - Background Color"
+msgstr ""
+
+#: templates/admin-settings.php:115
+msgid ""
+"Background color of the Ranking Badge (of Top Bought Listing shortcodes). "
+"Use hexa value including \"#\" character or rgba() value"
+msgstr ""
+
+#: templates/admin-settings.php:120
+msgid "Ranking badge - Text Color"
+msgstr ""
+
+#: templates/admin-settings.php:126
+msgid ""
+"Text color of the Ranking Badge (of Top Bought Listing shortcodes). Use hexa "
+"value including \"#\" character or rgba() value"
+msgstr ""
+
+#: templates/admin-settings.php:131
+msgid "Unlocked Badge - Background Color"
+msgstr ""
+
+#: templates/admin-settings.php:137
+msgid ""
+"Background color of bought/unlocked premium chapter's badge. Use hexa value "
+"including \"#\" character or rgba() value"
+msgstr ""
+
+#: templates/admin-settings.php:142
+msgid "[For WP Manga Member Upload PRO] Allow Manga Owner to set coin"
+msgstr ""
+
+#: templates/admin-settings.php:147
+msgid "Yes"
+msgstr ""
+
+#: templates/admin-settings.php:148
+msgid "No"
+msgstr ""
+
+#: templates/admin-settings.php:151
+msgid ""
+"Allow Manga Owner to set coin value for all chapters of his manga in Front-"
+"end Edit page. Admin and Editor can edit coin as well."
+msgstr ""
+
+#: templates/modal-buy-coin.php:12
+msgid "Premium Chapter"
+msgstr ""
+
+#: templates/modal-buy-coin.php:16
+msgid ""
+"You are about to spend <span class=\"coin\">-</span> coins to unlock this "
+"chapter"
+msgstr ""
+
+#: templates/modal-buy-coin.php:17
+msgid "You do not have enough Coins to buy this chapter"
+msgstr ""
+
+#: templates/modal-buy-coin.php:19
+msgid "You are required to login first"
+msgstr ""
+
+#: templates/modal-buy-coin.php:25
+msgid "Buy it"
+msgstr ""
+
+#: templates/modal-buy-coin.php:27
+msgid "Cancel"
+msgstr ""
+
+#: wp-manga-chapter-coin.php:120
+#, php-format
+msgid ""
+"WP Manga - Chapter Coin requires %1$s MyCred plugin %2$s to be activated"
+msgstr ""
+
+#: wp-manga-chapter-coin.php:152
+msgid "My Bought Mangas"
+msgstr ""
+
+#: wp-manga-chapter-coin.php:179
+#, php-format
+msgid "Balance: <i class=\"fas fa-coins\"></i> %s"
+msgstr ""
+
+#: wp-manga-chapter-coin.php:327
+msgid "This chapter is locked!"
+msgstr ""
+
+#: wp-manga-chapter-coin.php:327
+msgid "Buy it?"
+msgstr ""

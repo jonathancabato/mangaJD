@@ -213,16 +213,9 @@ class WP_Block {
 		}
 
 		if ( $is_dynamic ) {
-			$global_post = $post;
-			$parent      = WP_Block_Supports::$block_to_render;
-
-			WP_Block_Supports::$block_to_render = $this->parsed_block;
-
+			$global_post   = $post;
 			$block_content = (string) call_user_func( $this->block_type->render_callback, $this->attributes, $block_content, $this );
-
-			WP_Block_Supports::$block_to_render = $parent;
-
-			$post = $global_post;
+			$post          = $global_post;
 		}
 
 		if ( ! empty( $this->block_type->script ) ) {

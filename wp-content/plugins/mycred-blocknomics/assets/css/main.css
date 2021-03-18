@@ -1,0 +1,174 @@
+
+.modal .modal-dialog.crypto-dialog {
+    /*     margin: 150px auto!important; */
+        -ms-transform: translate(-50%, -50%)!important;
+        -webkit-transform: translate(-50%, -50%)!important;
+        transform: translate(-50%, -50%)!important;
+        background: linear-gradient(135deg, rgba(54, 61, 77, 1) 0%, rgba(0, 0, 0, 1) 100%)!important;
+    }
+    
+    .modal .modal-dialog .crypto-modal {
+        padding: 20px;
+        background-color: transparent;
+    }
+    
+    .modal .modal-dialog .crypto-modal .modal-header {
+        display:block;
+        
+        border: none;
+        padding: 0;
+    }
+    
+    
+    @media (max-width: 576px) {
+        .modal .modal-dialog .crypto-modal .modal-header h4 {
+            font-size: 14px;
+        }
+    }
+    
+    .modal .modal-dialog .crypto-modal .modal-header .modal-title {
+        margin-bottom: 20px;
+        color: #ffce2e;
+        text-align: center;
+    }
+    
+    .modal .modal-dialog .crypto-modal .modal-body {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        padding: 0;
+        margin-top: 15px;
+    }
+    
+    .modal .modal-dialog .crypto-modal .modal-body .img-wrapper {
+        width: 40%;
+        -ms-flex-negative: 0;
+        flex-shrink: 0;
+    }
+    
+    .modal .modal-dialog .crypto-modal .modal-body .form-wrapper {
+        width: 100%;
+        /* margin-left: 15px; */
+    }
+    
+    .modal .modal-dialog .crypto-modal .modal-body .form-wrapper form select {
+        margin-bottom: 10px;
+        width: 100%;
+        padding: 10px 6px;
+        
+        background: #fff;
+        outline: none;
+    }
+    
+    .modal .modal-dialog .crypto-modal .modal-body .form-wrapper form input {
+        background: transparent;
+        border: none;
+        border-bottom: 1px solid #b8bfcc;
+        border-radius: 0;
+        color: #ffce2e;
+        margin: 0;
+        font-size: 20px;
+        padding: 16px 0px 8px 0px;
+        outline: none;
+        font-size: 16px;
+        width: 100%;
+    }
+    
+    
+    
+    .modal .modal-dialog .crypto-modal .modal-body .form-wrapper form input[type="submit"] {
+        max-width: 100%;
+        font-size: 14px;
+        display: block;
+        border-radius: 2px;
+        color: #363d4d;
+        background: #ffce2e;
+        padding: 0;
+        height: 40px;
+        border: none;
+        font-size: 18px;
+        text-transform: uppercase;
+        transition: all 0.2s;
+    }
+    
+    .modal .modal-dialog .crypto-modal .modal-body .form-wrapper form input[type="submit"]:hover {
+        background: #ffe79a;
+        transition: all 0.2s;
+    }
+    .modal .modal-dialog .crypto-modal .modal-body .form-wrapper form input::-webkit-outer-spin-button,
+    .modal .modal-dialog .crypto-modal .modal-body .form-wrapper form input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+    }
+    
+    .modal .modal-dialog .crypto-modal .modal-body .form-wrapper form input::placeholder {
+        color: #b8bfcc;
+    }
+    
+    
+    
+    .modal .modal-dialog .crypto-modal .modal-body .form-wrapper form input:not(:last-child) {
+        margin-bottom: 20px;
+    }
+    
+    .modal .modal-dialog .crypto-modal .modal-body .form-wrapper form input[disabled] {
+        opacity: 0.4;
+        cursor: no-drop;
+    }
+    
+    .modal .modal-dialog .crypto-modal .modal-body .img-wrapper img {
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
+    }
+    
+    .crypto-modal .progress {
+        margin-bottom: 16px;
+    }
+    .crypto-modal .progress .progress-text{
+        position: absolute;
+        width: 100%;
+        color: black;
+        text-align: center;
+        padding: 0;
+        margin: 0;
+    }
+    .crypto-modal .address h4 {
+        text-align: left !important;
+        color: #ffce2e;
+    }
+    
+    .modal-content.crypto-modal .close {
+        
+        color: #ffce2e;
+        opacity: 0.7;
+        text-shadow: none;
+    }
+    
+    .modal-content.crypto-modal .close:hover {
+        
+        color: #ffce2e;
+        opacity: 1;
+    }
+    
+    /* To Delete Later */
+    .wp-manga-chapter.premium.premium-block .community-unlock .coin {
+        background-color: #ffce2e;
+        color: #ffffff;
+    }
+    #myDonateModal .btn-loading{
+        display: none;
+        margin-right: 8px;
+    
+    }
+    .single-wp-manga .main.version-chap{
+        display: none!important;
+    }
+    .single-wp-manga .no-subnav.c-sub-header-nav.with-border{
+        display: none;
+    }  

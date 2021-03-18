@@ -1,0 +1,13 @@
+{
+    "require": {
+        "wa72/htmlpagedom": "^2.0",
+        "ext-mbstring": "*",
+        "ext-curl": "*",
+        "htmlburger/carbon-fields": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "ActiveTools\\": "includes"
+        }
+    }
+}

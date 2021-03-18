@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <link rel="stylesheet" href="./style.css"> -->
+    <title>Document</title>
+</head>
+
+<body>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;600;700&display=swap');
+
+        .manga-section {
+            margin-bottom: 80px;
+        }
+
+        .marquee-container {
+            position: relative;
+            z-index: 9;
+            margin-bottom: 50px;
+            overflow: hidden;
+        }
+
+        body {
+            font-family: 'Rajdhani', sans-serif;
+        }
+
+        .manga-section .content {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            right: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 99;
+            flex-direction: column;
+            text-align: center;
+            top: 0;
+        }
+
+        .manga-section .content h1 {
+            font-size: 60px;
+            font-weight: 700;
+            text-transform: uppercase;
+            margin-bottom: 0;
+        }
+
+        .manga-section .content h4 {
+            margin-top: 0;
+            font-size: 20px;
+            letter-spacing: -.02em;
+            line-height: 29px;
+            color: #5a5d5a;
+            font-weight: 400;
+        }
+
+        body::-webkit-scrollbar {
+            display: none;
+        }
+
+        .manga-section .manga-container {
+            width: 100%;
+            max-width: 1440px;
+            margin: 0 auto;
+
+        }
+
+        .manga-section .manga-container .posts {
+            display: grid;
+            grid-template-columns: repeat(4, auto);
+            gap: 25px;
+            margin-bottom: 50px;
+        }
+
+        .manga-section .manga-container .posts .post a {
+            width: 100%;
+            height: 500px;
+            display: block;
+            position: relative;
+        }
+
+        .manga-section .manga-container .posts .post a img {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+
+        .manga-section .manga-container .posts .post:hover a::after {
+            opacity: .4;
+        }
+
+        .manga-section .manga-container .posts .post a::after {
+            position: absolute;
+            left: 0;
+            right: 0;
+            width: 100%;
+            height: 100%;
+            content: "";
+            background-color: #000;
+            z-index: 9;
+            top: 0;
+            opacity: 0;
+            transition: 0.4s;
+        }
+
+        .manga-section .manga-container .button-wrapper {
+            text-align: center;
+        }
+
+         .button-wrapper .btn-primary .overlay-btn {
+            content: "";
+            background-color: #fff;
+            position: absolute;
+            display: block;
+            height: 100%;
+            top: 0;
+            -webkit-transform: translateX(-100%) skew(-30deg);
+            -moz-transform: translateX(-100%) skew(-30deg);
+            transform: translateX(-100%) skew(-30deg);
+            -webkit-transition: .5s cubic-bezier(.76, .49, .25, 1);
+            -moz-transition: .5s cubic-bezier(.76, .49, .25, 1);
+            transition: .5s cubic-bezier(.76, .49, .25, 1);
+            left: -22px;
+            width: 123%;
+        }
+
+         .button-wrapper .btn-primary {
+            background-color: #000;
+            border: 2px solid #fff;
+            overflow: hidden;
+            padding: 15px 51px;
+            position: relative;
+            text-decoration: none;
+            font-size: 17px;
+            line-height: 2em;
+        }
+
+        .button-wrapper .btn-primary .overlay-btn-text {
+            z-index: 999;
+            transition: 0.4s;
+            color: #fff;
+            position: relative;
+            text-transform: uppercase;
+            font-size: 20px;
+            font-weight: 700;
+        }
+
+         .button-wrapper .btn-primary:hover .overlay-btn-text {
+            color: #000;
+            transition: 0.4s;
+        }
+
+         .button-wrapper .btn-primary:hover .overlay-btn {
+            left: 210px;
+        }
+
+        @keyframes marquee {
+            0% {
+                left: 0;
+            }
+
+            100% {
+                left: -180%;
+            }
+        }
+
+        @media (max-width: 792px) {
+            .manga-section .manga-container .posts {
+                grid-template-columns: repeat(2, auto);
+                gap: 10px;
+            }
+
+            .manga-section .manga-container .posts .post a {
+                height: 280px;
+            }
+        }
+
+        .marquee {
+            position: relative;
+            overflow: hidden;
+            white-space: nowrap;
+            pointer-events: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none
+        }
+
+        .marquee__track {
+            display: inline-flex;
+            animation: marqueeAnimation 50s linear infinite
+        }
+
+        .marquee__track h2 {
+            font-size: 360px;
+            margin: 0;
+            line-height: 0.9em;
+            opacity: 0.2;
+        }
+
+        @-webkit-keyframes marqueeAnimation {
+            0% {
+                transform: translateZ(0)
+            }
+
+            to {
+                transform: translate3d(-100%, 0, 0)
+            }
+        }
+
+        @keyframes marqueeAnimation {
+            0% {
+                transform: translateZ(0)
+            }
+
+            to {
+                transform: translate3d(-100%, 0, 0)
+            }
+        }
+
+        @-webkit-keyframes marquee {
+            0% {
+                transform: translate3d(100%, 0, 0)
+            }
+
+            0% {
+                transform: translate3d(-100%, 0, 0)
+            }
+        }
+
+        @keyframes marquee {
+            0% {
+                transform: translate3d(100%, 0, 0)
+            }
+
+            0% {
+                transform: translate3d(-100%, 0, 0)
+            }
+        }
+    </style>
+
+    <section class="manga-section">
+
+        <div class="marquee-container">
+            <div class="marquee marquee--spacing">
+                <div class="marquee__track">
+                    <h2>ROMANCE MANGA &nbsp;</h2>
+                </div>
+                <div class="marquee__track">
+                    <h2>ROMANCE MANGA &nbsp;</h2>
+                </div>
+            </div>
+
+            <div class="content">
+                <h1>AN ULTIMATE COLLECTION_</h1>
+                <h4>Make a bold impression with Tetsuo’s powerful set of inner pages fully customizable to all your
+                    needs.</h4>
+            </div>
+        </div>
+
+        <div class="manga-container">
+
+            <div class="posts">
+
+                <div class="post">
+                    <a href="#">
+                        <img src="./images/518594395af20ac713088eca87f0b3b4.jpg">
+                    </a>
+                </div>
+
+                <div class="post">
+                    <a href="#">
+                        <img src="./images/aot.jpg">
+                    </a>
+                </div>
+
+                <div class="post">
+                    <a href="#">
+                        <img src="./images/bc.jpg">
+                    </a>
+                </div>
+
+                <div class="post">
+                    <a href="#">
+                        <img src="./images/aot.jpg">
+                    </a>
+                </div>
+
+                <div class="post">
+                    <a href="#">
+                        <img src="./images/bc.jpg">
+                    </a>
+                </div>
+
+                <div class="post">
+                    <a href="#">
+                        <img src="./images/16992857.jpg">
+                    </a>
+                </div>
+
+                <div class="post">
+                    <a href="#">
+                        <img src="./images/16992857.jpg">
+                    </a>
+                </div>
+
+                <div class="post">
+                    <a href="#">
+                        <img src="./images/518594395af20ac713088eca87f0b3b4.jpg">
+                    </a>
+                </div>
+
+
+            </div>
+            <div class="button-wrapper">
+                <a href="#" class="btn-primary">
+                    <span class="overlay-btn"></span>
+                    <span class="overlay-btn-text">Load More</span>
+                </a>
+            </div>
+        </div>
+
+
+    </section>
+</body>
+
+</html>
